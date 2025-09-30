@@ -1,0 +1,1 @@
+If you want a placeholder image, put it in frontend/public/placeholder.png
